@@ -1,0 +1,11 @@
+.gradle
+.idea
+*.iml
+build
+local.properties
+.classpath
+.project
+project.properties
+secure.properties
+secrets.properties
+.DS_Store
